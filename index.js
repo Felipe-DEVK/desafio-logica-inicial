@@ -21,3 +21,5 @@ if (xpDoHeroi <= 1000) {
 } else {
     console.log("Radiante")
 }
+
+console.log("O Herói de nome" + nomeDoHeroi + "Está no nivel " + xpDoHeroi)
